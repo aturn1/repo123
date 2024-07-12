@@ -1,10 +1,10 @@
 Linux and shell
 git and github
 jenkins
-maven 
-nexus 
-tomcat
+maven  - cicd tool
+nexus - software repo management
+tomcat - war packages
 sonarqube docker
-dockerswarm 
+dockerswarm - container orchestration
 kubernetes ansible
 terraform
