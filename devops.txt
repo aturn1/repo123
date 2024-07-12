@@ -1,0 +1,10 @@
+Linux and shell
+git and github
+jenkins
+maven 
+nexus 
+tomcat
+sonarqube docker
+dockerswarm 
+kubernetes ansible
+terraform
