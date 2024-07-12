@@ -8,3 +8,7 @@ sonarqube docker
 dockerswarm - container orchestration
 kubernetes ansible
 terraform
+
+hello world
+welcome to devops sessions
+thanks Arnold
